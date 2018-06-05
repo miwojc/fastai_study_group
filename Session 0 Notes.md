@@ -25,5 +25,7 @@ Online courses platforms completion rates are pretty low. To help keep people ac
 * [Local computer with CPU only](https://github.com/fastai/fastai#cpu-only-environment)
 
 ## Links to resources
-[Fast.ai Wiki: Lesson 1](http://forums.fast.ai/t/wiki-lesson-1/9398) This is great resource at fastai formus. I encourage you to use fastai forums!
+[Fast.ai Wiki: Lesson 1](http://forums.fast.ai/t/wiki-lesson-1/9398) Fastai forums is great resource. I encourage you to use fastai forums!
+
+[This week in Machine Learning & AI (TWiMLAI) Podcast have online/remote study group similar to ours. They meet online weekly on Saturdays 10am EST.](https://twimlai.com/twiml-x-fast-ai/)
 
