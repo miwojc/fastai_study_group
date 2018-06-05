@@ -26,6 +26,8 @@ Online courses platforms completion rates are pretty low. To help keep people ac
 * Local computer with GPU
 * [Local computer with CPU only](https://github.com/fastai/fastai#cpu-only-environment)
 
+**Be sure to stop remote machine when finished using it, otherwise you will pay for it!**
+
 ## Links to resources
 [Fast.ai Wiki: Lesson 1](http://forums.fast.ai/t/wiki-lesson-1/9398) Fastai forums is great resource. I encourage you to use fastai forums!
 
