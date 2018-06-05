@@ -9,6 +9,7 @@ Watch [lesson 1 video](https://youtu.be/IPBSB1HLNLo) and do homework before next
 * Get comfortable with Jupyter and all other tools
 * Run week1 code and understand it…Play with code to understand it
 * Try different learning rates, epochs while running code
+* Run code on different set of images (download from google images for example) and share results
 * Feel free to explore week2 notebook
 
 ## Motivation to complete the full course
