@@ -1,6 +1,7 @@
 # Into Session Notes and Next Steps
+Meeting date: 6/4/2018
 
-First, I was great to see you all at Phoenix!
+**First, I was great to see you all at Phoenix!**
 
 ## Next steps
 Watch [lesson 1 video](https://youtu.be/IPBSB1HLNLo) and do homework before next week meetup:
