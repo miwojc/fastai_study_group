@@ -12,6 +12,9 @@ Watch [lesson 1 video](https://youtu.be/IPBSB1HLNLo) and do homework before next
 * Run code on different set of images (download from google images for example) and share results
 * Feel free to explore week2 notebook
 
+## Group communication
+We will use #datascience channel at Cleveland Tech on Slack. Join Cleveland Tech on Slack with this [link](cleveland-tech.herokuapp.com/) then search for #datascience and join the channel. See you there!
+
 ## Motivation to complete the full course
 Online courses platforms completion rates are pretty low. To help keep people accountable, we suggest to collect a deposit from students. You choose the amount. At the end of the program you will get all the money back. If you dropout without completing the program we count the donation as sponsorship for future CAIG meetings.
 
@@ -27,10 +30,9 @@ Online courses platforms completion rates are pretty low. To help keep people ac
 * Local computer with GPU
 * [Local computer with CPU only](https://github.com/fastai/fastai#cpu-only-environment)
 
-**Be sure to stop remote machine when finished using it, otherwise you will pay for it!**
+**Be sure to stop the instance when finished using it, otherwise you will pay for it!**
 
 ## Links to resources
 [Fast.ai Wiki: Lesson 1](http://forums.fast.ai/t/wiki-lesson-1/9398) Fastai forums is great resource. I encourage you to use fastai forums!
 
 [This week in Machine Learning & AI (TWiMLAI) Podcast have online/remote study group similar to ours. They meet online weekly on Saturdays 10am EST.](https://twimlai.com/twiml-x-fast-ai/)
-
