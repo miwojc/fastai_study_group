@@ -23,6 +23,7 @@ Online courses platforms completion rates are pretty low. To help keep people ac
 * Google Cloud Platform (GCP) $300 credit
 * FREE Google Colab (free GPU instances up to 12hrs at a time) [link1](https://towardsdatascience.com/fast-ai-lesson-1-on-google-colab-free-gpu-d2af89f53604?_tmc=pKt5fT44ZPUMKrMJ_y91ZXOjrW-39AKiiSsL9o7tgm4) [link2-video](https://www.youtube.com/watch?reload=9&v=CE0OOYIwcSw&feature=youtu.be)
 * [FREE Kaggle kernels (free GPU)](http://forums.fast.ai/t/kaggle-kernels-now-support-gpu-for-free/16217)
+* Microsoft Azure $200 credit for 30 days [link 1](http://forums.fast.ai/t/guide-to-setup-fastai-on-azure/8978) [link 2](https://azure.microsoft.com/en-us/free/)
 * Local computer with GPU
 * [Local computer with CPU only](https://github.com/fastai/fastai#cpu-only-environment)
 
